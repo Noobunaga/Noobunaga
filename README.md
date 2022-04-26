@@ -3,6 +3,8 @@
 
 
 - 🔭 I’m currently working on updating my profile page
+- - 💬 Ask me about what I want to build
+- 📫 How to reach me: https://www.linkedin.com/in/pouaphengyang/
 <!--
 **Noobunaga/Noobunaga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
